@@ -53,3 +53,14 @@ header img {
     align-items: center;
     padding: 50px;
 }
+
+.container {
+    margin: 30px;
+    justify-content: center;
+    float: left;
+}
+
+.image1 {
+    float: right;
+    width: 100%;
+}
