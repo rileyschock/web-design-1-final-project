@@ -46,3 +46,10 @@ header img {
 .wrapper {
     max-width: 1280px;
 }
+
+.aboutme {
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
