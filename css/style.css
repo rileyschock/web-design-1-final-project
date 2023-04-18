@@ -1,6 +1,11 @@
 html {
     font-family: "Proza Libre";
-    color:black;
+    color: black;
     background-color: white;
     box-sizing: border-box;
+    font-size: 100%;
+}
+
+body {
+    margin: 0;
 }
