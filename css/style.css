@@ -9,3 +9,11 @@ body {
     margin: 0;
 
 }
+
+header {
+    background-color: black;
+    color: white;
+    flex-direction: row;
+    padding-left: 5em;
+    padding-right: 5em;
+}
