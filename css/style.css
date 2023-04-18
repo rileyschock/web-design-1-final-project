@@ -37,3 +37,9 @@ nav ul {
 nav ul li {
     padding: .5em .75em;
 }
+
+img {
+    width: 100%;
+    height: auto;
+}
+
