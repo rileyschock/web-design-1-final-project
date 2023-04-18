@@ -24,3 +24,16 @@ header {
     padding-right: 5em;
     justify-items: flex-end;
 }
+
+nav {
+    margin-left: auto;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li {
+    padding: .5em .75em;
+}
