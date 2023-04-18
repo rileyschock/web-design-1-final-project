@@ -43,10 +43,6 @@ header img {
     height: auto;
 }
 
-.wrapper {
-    max-width: 1280px;
-}
-
 .aboutme {
     background-color: #fff;
     display: flex;
@@ -54,7 +50,7 @@ header img {
     padding: 50px;
 }
 
-.container {
+.container1 {
     margin: 30px;
     justify-content: center;
     float: left;
@@ -64,3 +60,4 @@ header img {
     float: right;
     width: 100%;
 }
+
