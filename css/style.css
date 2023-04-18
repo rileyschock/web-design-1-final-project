@@ -17,3 +17,10 @@ header {
     padding-left: 5em;
     padding-right: 5em;
 }
+
+.div1 {
+    display: flex;
+    padding-left: 5em;
+    padding-right: 5em;
+    justify-items: flex-end;
+}
