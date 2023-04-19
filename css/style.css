@@ -189,3 +189,10 @@ header img {
     justify-items: center;
 
 }
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: .1em 0 .1em 0;
+}
