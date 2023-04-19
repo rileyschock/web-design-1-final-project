@@ -132,3 +132,10 @@ header img {
     border-radius: 5px;
     padding: 5px;
 }
+
+.mywork {
+    text-align: center;
+    align-content: center;
+    margin: 20px;
+    padding: 5em;
+}
