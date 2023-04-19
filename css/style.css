@@ -144,3 +144,9 @@ header img {
     padding-left: 15em;
     padding-right: 15em;
 }
+
+.reviews {
+    background-color: black;
+    color: white;
+    padding: 5em;
+}
