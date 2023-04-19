@@ -68,3 +68,18 @@ header img {
     background-color:#f2f2f2;
     padding: 5em;
 }
+
+.heading1 {
+    text-align: center;
+}
+
+.container2 div {
+        padding: 2em;
+    }
+    
+.container2 {
+        display: grid;
+        grid-template-columns: 500px 500px 500px;
+        margin: auto;
+        justify-content: center;
+}
