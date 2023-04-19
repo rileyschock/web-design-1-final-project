@@ -83,3 +83,24 @@ header img {
         margin: auto;
         justify-content: center;
 }
+
+.box1 {
+    background-color: white;
+    border: 2px solid #ededed;
+    border-radius: 10px;
+    margin: 5em;
+}
+
+.box2 {
+    background-color: white;
+    border: 2px solid #ededed;
+    border-radius: 10px;
+    margin: 5em;
+}
+
+.box3 {
+    background-color: white;
+    border: 2px solid #ededed;
+    border-radius: 10px;
+    margin: 5em;
+}
