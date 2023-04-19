@@ -136,7 +136,18 @@ header img {
 .mywork {
     text-align: center;
     align-content: center;
-    margin: 20px;
+    padding: 5em;
+
+}
+
+.mywork img {
+  justify-content: center;
+  align-items: center;
+}
+
+
+.container3 {
+    margin-bottom: 5em;
 }
 
 .heading2 {
@@ -147,7 +158,8 @@ header img {
 .reviews {
     background-color: black;
     color: white;
-    padding: 5em;
+    padding: 5em 0 5em 0;
+    margin-top: 5em;
 }
 
 .review1 {
