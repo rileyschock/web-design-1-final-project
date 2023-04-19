@@ -137,7 +137,6 @@ header img {
     text-align: center;
     align-content: center;
     margin: 20px;
-    padding: 5em;
 }
 
 .heading2 {
@@ -170,4 +169,10 @@ header img {
 .quotes {
     color: grey;
     font-style: none;
+}
+
+.contactme {
+    padding: 5em;
+    background-color: white;
+    text-align: center;
 }
