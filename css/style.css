@@ -166,3 +166,8 @@ header img {
     font-style: italic;
     padding: 5em;
 }
+
+.quotes {
+    color: grey;
+    font-style: none;
+}
